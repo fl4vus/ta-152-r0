@@ -6,10 +6,10 @@ TA-152-R0 is a polyaplhabetic, per-round evolving cipher algorithm designed by m
 The implementation is deterministic, and bare-bones, with **EXPERIMENTAL** stability, and is not suitable for production cryptography.
 
 ### Build
-Language: ISO C11
-Compiler: GCC / Clang
-Platform: Linux / Unix
-Build system: Make
-Dependencies: libc only
+Language: ISO C11  
+Compiler: GCC / Clang  
+Platform: Linux / Unix  
+Build system: Make  
+Dependencies: libc only  
 
 _AUTHOR: Riyan Dahiya_
