@@ -3,5 +3,6 @@
 
 ## TA-152-R0 Cipher (Original Implementation)
 TA-152-R0 is a polyaplhabetic, per-round evolving cipher algorithm designed by me.
+The implementation is deterministic, and bare-bones, with **EXPERIMENTAL** stability, and is not suitable for production cryptography.
 
-AUTHOR: Riyan Dahiya
+_AUTHOR: Riyan Dahiya_
