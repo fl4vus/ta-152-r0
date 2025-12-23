@@ -1,5 +1,5 @@
 # ta-152-r0
-![alt text](https://raw.githubusercontent.com/fl4vus/ta-152-r0/main/mascot.jpg)
+
 ## TA-152-R0 Cipher (Original Implementation)
 
 
