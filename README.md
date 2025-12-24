@@ -1,5 +1,5 @@
 # ta-152-r0
-![alt text](https://raw.githubusercontent.com/fl4vus/ta-152-r0/main/mascot_ta152_r0.png)
+![MASCOT](https://raw.githubusercontent.com/fl4vus/ta-152-r0/main/r0-mascot.png)
 
 ## TA-152-R0 Cipher (Original Implementation)
 TA-152-R0 is a polyalphabetic, per-round evolving cipher algorithm designed by me.
