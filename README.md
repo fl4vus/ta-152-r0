@@ -25,4 +25,7 @@ Platform: Linux / Unix
 Build system: Make  
 Dependencies: libc only  
 
+### Documentation
+Specifications: [TA-152-R1-SPEC](https://github.com/fl4vus/ta-152-r0/tree/main/documentation/r0_spec.pdf)
+
 _AUTHOR: Riyan Dahiya_
