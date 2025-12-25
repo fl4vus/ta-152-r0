@@ -23,7 +23,7 @@ Language: ISO C11
 Compiler: GCC / Clang  
 Platform: Linux / Unix  
 Build system: Make  
-Dependencies: libc only  
+Dependencies: libc / glibc  
 
 ### Documentation
 Specifications: [TA-152-R0-SPEC](https://github.com/fl4vus/ta-152-r0/tree/main/documentation/r0_spec.pdf)
